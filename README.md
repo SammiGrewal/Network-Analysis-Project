@@ -1,5 +1,7 @@
 # London Pollution Prediction using Graph Neural Networks
 
+**[View the full analysis](https://sammigrewal.github.io/Network-Analysis-Project/London_GNN_Project.html)**
+
 ## Context
 This project aims to predict PM2.5 concentrations for each output area in London using socio-economic characteristics and spatial relationships modeled as a graph.
 
