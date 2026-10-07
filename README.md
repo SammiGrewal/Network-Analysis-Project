@@ -13,7 +13,7 @@ This project aims to predict PM2.5 concentrations for each output area in London
 3. **GNN Model Building**: Implemented a GraphSAGE model with two layers to capture neighborhood structure and relationships.
 
 ## Key Outcomes
-- **Model Fit**: GraphSAGE is compared to a Linear Regression model, the GNN outperforms linear model significantly. The GNN offers greater explanatory power than a linear model, improving the R<\sup>2<\sup> by 7.2%, and reducing the RMSE by 11.4% compared to the linear model.
+- **Model Fit**: GraphSAGE is compared to a Linear Regression model, the GNN outperforms linear model. The GNN offers greater explanatory power than a linear model, improving the R² by 7.2%, and reducing the RMSE by 11.4% compared to the linear model.
 
 ## Improvements
 - However, the GraphSAGE model is not perfect. Both models underpredict pollution along major roads, suggesting the next step is to add London's road network to the graph, so areas linked by a main road are treated as neighbours.
