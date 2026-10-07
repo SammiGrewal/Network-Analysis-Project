@@ -1,10 +1,9 @@
 # London Pollution Prediction using Graph Neural Networks
-Analytic Exercise 2 - Graph Modelling
 
 ## Context
-This project is part of the URBAN 5160 - Graph Neural Networks for Urban Analytics course. It aims to predict PM2.5 concentrations for each output area in London using socio-economic characteristics and spatial relationships modeled as a graph.
+This project aims to predict PM2.5 concentrations for each output area in London using socio-economic characteristics and spatial relationships modeled as a graph.
 
-The analysis is implemented in the `london_pollution_graph.ipynb` notebook.
+The analysis is viewed in the 'London_GNN_Project.html' file.
 
 ## Main Methods
 1. **Exploratory Data Analysis**: Analyzed socio-economic variables (demographics, housing, employment) and PM2.5 pollution levels across London output areas. Visualized spatial distribution and summary statistics.
