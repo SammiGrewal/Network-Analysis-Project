@@ -5,8 +5,6 @@
 ## Context
 This project aims to predict PM2.5 concentrations for each output area in London using socio-economic characteristics and spatial relationships modeled as a graph.
 
-The analysis is viewed in the 'London_GNN_Project.html' file.
-
 ## Main Methods
 1. **Exploratory Data Analysis**: Analyzed socio-economic variables (demographics, housing, employment) and PM2.5 pollution levels across London output areas. Visualized spatial distribution and summary statistics.
 
